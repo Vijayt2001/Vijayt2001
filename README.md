@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijayt2001
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Computer Science at San Francisco State University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vijayrajt01@gmail.com
